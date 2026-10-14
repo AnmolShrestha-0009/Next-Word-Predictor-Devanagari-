@@ -78,7 +78,7 @@ Softmax → top-N next-word predictions
 - **Data handling:** pandas (parquet input)
 - **NLP utilities:** gensim (imported in the notebook), regex-based tokenization
 - **Demo UI:** Streamlit
-- **Environment:** Jupyter Notebook (GPU recommended for training, e.g. Google Colab)
+- **Environment:** Jupyter Notebook (GPU recommended for training, e.g. Google Colab T4 GPU)
 
 ## Repository Structure
 
